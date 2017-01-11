@@ -1,0 +1,3 @@
+rootProject.name = 'MusicSpike'
+
+include ':app'
