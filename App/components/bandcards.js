@@ -7,7 +7,7 @@ import {
   View
 } from 'react-native';
 import Nav from './nav';
-import SwipeCards from 'react-native-swipe-cards';
+import SwipeCards from './SwipeCards';
 
 var band1 = require('../images/band1.jpg');
 var band2 = require('../images/band2.jpg');
